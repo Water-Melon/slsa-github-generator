@@ -17,7 +17,7 @@
 set -euo pipefail
 
 # Caller sets the following:
-#BUILDER_REPOSITORY="slsa-framework/slsa-github-generator"
+#BUILDER_REPOSITORY="Water-Melon/slsa-github-generator"
 #BUILDER_RELEASE_BINARY="builder-linux-amd64"
 #
 #VERIFIER_REPOSITORY="slsa-framework/slsa-verifier"
